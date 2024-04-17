@@ -1,0 +1,595 @@
+id,title,link,date,score,rank
+40069987,Flying Aircraft Carriers (2019),https://neverwasmag.com/2019/08/flying-aircraft-carriers/,2024-04-17 20:57:44,67.0,1
+40067486,Embeddings are a good starting point for the AI curious app developer,https://bawolf.substack.com/p/embeddings-are-a-good-starting-point,2024-04-17 17:09:14,352.0,2
+40069298,Cyc: History's Forgotten AI Project,https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project,2024-04-17 19:46:46,87.0,3
+40067677,Show HN: Speeding up LLM inference 2x times (possibly),https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61,2024-04-17 17:26:09,207.0,4
+40067939,CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred,https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/,2024-04-17 17:48:31,148.0,5
+40067206,The forgotten war on beepers,https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers,2024-04-17 16:47:21,143.0,6
+40063367,How many bathrooms have Neanderthals in the tile?,https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/,2024-04-17 12:00:32,393.0,7
+40069599,Hardest Problem in Computer Science: Centering Things,https://tonsky.me/blog/centering/,2024-04-17 20:17:11,63.0,8
+40064105,An electric new era for Atlas,https://bostondynamics.com/blog/electric-new-era-for-atlas/,2024-04-17 13:12:14,309.0,9
+40070853,House passes bill requiring warrant to purchase data from third parties,https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/,2024-04-17 22:42:03,39.0,10
+40070015,Svix (YC W21) Is Hiring a Tech Lead (US Remote),https://www.svix.com/careers/,2024-04-17 21:00:47,,11
+40070034,Show HN: A no-watermark video downloader for Any social media,https://www.fastdownload.io/,2024-04-17 21:03:16,16.0,12
+40065821,"libxev: A cross-platform, high-performance event loop",https://github.com/mitchellh/libxev,2024-04-17 15:11:26,143.0,13
+40064027,Solving the minimum cut problem for undirected graphs,https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/,2024-04-17 13:05:14,146.0,14
+40067184,The Dictionary of Obscure Sorrows,https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/,2024-04-17 16:45:40,57.0,15
+40055908,Everything we can't describe in music,https://hazlitt.net/feature/everything-we-cant-describe-music,2024-04-16 19:02:13,86.0,16
+40068187,How Antithesis finds bugs,https://antithesis.com/blog/sdtalk/,2024-04-17 18:07:01,99.0,17
+40063803,Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool,https://github.com/WINSDK/bite,2024-04-17 12:39:49,91.0,18
+40049564,"Ask HN: Does Anyone Use a ""Closed Core"" Software Model?",item?id=40049564,2024-04-16 08:20:36,6.0,19
+40066921,The great commercial takeover of low Earth orbit,https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/,2024-04-17 16:26:59,45.0,20
+40062552,Humane AI – Pico Laser Projection – AI Twist on an Old Scam (2023),https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/,2024-04-17 10:11:50,203.0,21
+40050162,LCD displays still don't match the responsiveness of clunky CRT screens (2019),https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd,2024-04-16 09:57:32,85.0,22
+40067158,"Joseph Priestley created revolutionary ""maps"" of time",https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time,2024-04-17 16:43:36,30.0,23
+40051013,Oolite: An open source open-world space opera,https://oolite.space/,2024-04-16 12:14:14,88.0,24
+40066975,The Making of Django Reinhardt,https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/,2024-04-17 16:30:31,46.0,25
+40068170,Collapse of self-trained language models,https://arxiv.org/abs/2404.02305,2024-04-17 18:05:59,69.0,26
+40067556,"AltStore PAL, the first alternative app marketplace on iPhone, is available now",https://mastodon.social/@stroughtonsmith/112287515017810339,2024-04-17 17:16:13,133.0,27
+40065704,The biggest source of waste is untapped skilled pragmatists,https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity,2024-04-17 15:04:08,214.0,28
+40067484,Show HN: A self-published art book about Google's first 25 years,https://www.damaia.com/google,2024-04-17 17:09:04,33.0,29
+40067605,Reddit is taking over Google,https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4,2024-04-17 17:20:32,152.0,30
+40069987,Flying Aircraft Carriers (2019),https://neverwasmag.com/2019/08/flying-aircraft-carriers/,2024-04-17 20:57:44,67.0,1
+40067486,Embeddings are a good starting point for the AI curious app developer,https://bawolf.substack.com/p/embeddings-are-a-good-starting-point,2024-04-17 17:09:14,353.0,2
+40069298,Cyc: History's Forgotten AI Project,https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project,2024-04-17 19:46:46,87.0,3
+40067677,Show HN: Speeding up LLM inference 2x times (possibly),https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61,2024-04-17 17:26:09,207.0,4
+40067939,CFPB Takes Action Against Coding Boot Camp BloomTech and CEO Austen Allred,https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-coding-boot-camp-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/,2024-04-17 17:48:31,148.0,5
+40067206,The forgotten war on beepers,https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers,2024-04-17 16:47:21,143.0,6
+40063367,How many bathrooms have Neanderthals in the tile?,https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/,2024-04-17 12:00:32,393.0,7
+40069599,Hardest Problem in Computer Science: Centering Things,https://tonsky.me/blog/centering/,2024-04-17 20:17:11,63.0,8
+40064105,An electric new era for Atlas,https://bostondynamics.com/blog/electric-new-era-for-atlas/,2024-04-17 13:12:14,309.0,9
+40070853,House passes bill requiring warrant to purchase data from third parties,https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/,2024-04-17 22:42:03,39.0,10
+40070015,Svix (YC W21) Is Hiring a Tech Lead (US Remote),https://www.svix.com/careers/,2024-04-17 21:00:47,,11
+40070034,Show HN: A no-watermark video downloader for Any social media,https://www.fastdownload.io/,2024-04-17 21:03:16,16.0,12
+40065821,"libxev: A cross-platform, high-performance event loop",https://github.com/mitchellh/libxev,2024-04-17 15:11:26,143.0,13
+40064027,Solving the minimum cut problem for undirected graphs,https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/,2024-04-17 13:05:14,146.0,14
+40067184,The Dictionary of Obscure Sorrows,https://www.themarginalian.org/2024/04/12/dictionary-of-obscure-sorrows/,2024-04-17 16:45:40,57.0,15
+40055908,Everything we can't describe in music,https://hazlitt.net/feature/everything-we-cant-describe-music,2024-04-16 19:02:13,86.0,16
+40068187,How Antithesis finds bugs,https://antithesis.com/blog/sdtalk/,2024-04-17 18:07:01,99.0,17
+40063803,Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool,https://github.com/WINSDK/bite,2024-04-17 12:39:49,91.0,18
+40049564,"Ask HN: Does Anyone Use a ""Closed Core"" Software Model?",item?id=40049564,2024-04-16 08:20:36,6.0,19
+40066921,The great commercial takeover of low Earth orbit,https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/,2024-04-17 16:26:59,45.0,20
+40062552,Humane AI – Pico Laser Projection – AI Twist on an Old Scam (2023),https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/,2024-04-17 10:11:50,203.0,21
+40050162,LCD displays still don't match the responsiveness of clunky CRT screens (2019),https://www.vice.com/en/article/kz4gqm/why-this-20-year-old-crt-monitor-is-better-than-a-4k-lcd,2024-04-16 09:57:32,85.0,22
+40067158,"Joseph Priestley created revolutionary ""maps"" of time",https://www.neh.gov/article/joseph-priestley-created-revolutionary-maps-time,2024-04-17 16:43:36,30.0,23
+40051013,Oolite: An open source open-world space opera,https://oolite.space/,2024-04-16 12:14:14,88.0,24
+40066975,The Making of Django Reinhardt,https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/,2024-04-17 16:30:31,46.0,25
+40068170,Collapse of self-trained language models,https://arxiv.org/abs/2404.02305,2024-04-17 18:05:59,69.0,26
+40067556,"AltStore PAL, the first alternative app marketplace on iPhone, is available now",https://mastodon.social/@stroughtonsmith/112287515017810339,2024-04-17 17:16:13,133.0,27
+40065704,The biggest source of waste is untapped skilled pragmatists,https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity,2024-04-17 15:04:08,214.0,28
+40067484,Show HN: A self-published art book about Google's first 25 years,https://www.damaia.com/google,2024-04-17 17:09:04,33.0,29
+40067605,Reddit is taking over Google,https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4,2024-04-17 17:20:32,152.0,30
+40067605,Reddit is taking over Google,https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4,2024-04-17 17:20:32,152.0,31
+40048702,RubyJS-Vite,https://filipvrba.github.io/ruby-js/,2024-04-16 05:41:44,79.0,32
+40065114,Stable Diffusion 3 API Now Available,https://stability.ai/news/stable-diffusion-3-api,2024-04-17 14:26:31,210.0,33
+40070840,How to avoid accidentally sharing proprietary information of a former employer?,https://workplace.stackexchange.com/questions/197282/how-to-avoid-accidentally-sharing-proprietary-information-when-working-for-a-com,2024-04-17 22:40:13,7.0,34
+40065862,Future of Humanity Institute shuts down,https://www.futureofhumanityinstitute.org,2024-04-17 15:14:08,174.0,35
+40067041,Novelists as Schoolmasters,https://www.thearticle.com/novelists-as-schoolmasters?ref=thebrowser.com,2024-04-17 16:35:13,4.0,36
+40063795,Quantum mechanics is the operating system other physical theories run on (2007),https://www.scottaaronson.com/democritus/lec9.html,2024-04-17 12:38:40,90.0,37
+40045832,Bronze Age Stone Anchors as Material Metaphors,https://link.springer.com/article/10.1007/s10816-024-09642-z,2024-04-15 21:29:28,15.0,38
+40055116,An Obscure Actions Workflow Vulnerability in Google's Flank,https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/,2024-04-16 17:57:19,15.0,39
+40070964,Google workers arrested after nine-hour protest in cloud chief's office,https://www.cnbc.com/2024/04/17/google-workers-arrested-after-nine-hour-protest-in-google-cloud-ceos-office.html,2024-04-17 22:57:56,7.0,40
+40051346,Spiraling insights: Scientists observe mechanical waves in bacterial communities,https://phys.org/news/2024-04-spiraling-insights-scientists-mechanical-bacterial.html,2024-04-16 13:00:39,9.0,41
+40064736,Mixtral 8x22B,https://mistral.ai/news/mixtral-8x22b/,2024-04-17 14:00:37,436.0,42
+40063908,LXQt 2.0.0,https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/,2024-04-17 12:52:06,168.0,43
+40060123,Ten years of improvements in PostgreSQL's optimizer,https://rmarcus.info/blog/2024/04/12/pg-over-time.html,2024-04-17 03:27:58,254.0,44
+40066970,Show HN: How to program an Arduino using Rust (on macOS),https://rybicki.io/blog/2024/04/16/program-arduino-using-rust.html,2024-04-17 16:29:57,11.0,45
+40047806,A curious phenomenon called 'Etak',https://maphappenings.com/2024/04/11/story-of-etak/,2024-04-16 02:27:23,949.0,46
+40048177,Descent 3 Source Code,https://github.com/kevinbentley/Descent3,2024-04-16 03:49:06,1215.0,47
+40063137,Show HN: Desbordante 2.0 – A high-performance data profiler,https://github.com/Desbordante/desbordante-core,2024-04-17 11:36:54,31.0,48
+40061298,F/OSS Comics: 8. The Origins of Unix and the C Language,https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/,2024-04-17 06:51:13,122.0,49
+40062590,Blaze: A High Performance C++ Math Library,https://bitbucket.org/blaze-lib/blaze/src/master/,2024-04-17 10:15:57,68.0,50
+40067575,How Nestlé gets children hooked on sugar in lower-income countries,https://stories.publiceye.ch/nestle-babies/,2024-04-17 17:18:07,227.0,51
+40062987,Security Vulnerability in Browser Interface Allows Computer Access via GPU,https://www.tugraz.at/en/tu-graz/services/news-stories/media-service/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte,2024-04-17 11:17:29,91.0,52
+40060198,Perlis's Programming Epigrams,https://www.cs.yale.edu/homes/perlis-alan/quotes.html,2024-04-17 03:43:18,47.0,53
+40051191,Loading a trillion rows of weather data into TimescaleDB,https://aliramadhan.me/2024/03/31/trillion-rows.html,2024-04-16 12:39:07,381.0,54
+40050027,Raytracing on Meteor Lake's iGPU,https://chipsandcheese.com/2024/04/15/raytracing-on-meteor-lakes-igpu/,2024-04-16 09:34:27,123.0,55
+40066494,"Show HN: Brewer X, a native macOS client for Homebrew",https://panini.house/brewer/,2024-04-17 15:57:52,7.0,56
+40054580,usbredir: A protocol for sending USB device traffic over a network connection,https://www.spice-space.org/usbredir.html,2024-04-16 17:13:59,213.0,57
+40056640,A quick post on Chen's algorithm,https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/,2024-04-16 20:16:47,255.0,58
+40069176,Climate damages by 2050 will be 6 times the cost of limiting warming to 2°,https://arstechnica.com/science/2024/04/climate-damages-by-2050-will-be-6-times-the-cost-of-limiting-warming-to-2/,2024-04-17 19:35:51,29.0,59
+40047094,Justice Department to file antitrust suit against Live Nation,https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268,2024-04-16 00:19:39,667.0,60
+40062276,Desert city of Dubai floods as UAE hit by heaviest rainfall in 75 years,https://www.theguardian.com/world/2024/apr/17/dubai-floods-uae-rainfall-weather-forecast,2024-04-17 09:29:04,51.0,61
+40067068,"Cloudflare CEO Matthew Prince buys local paper, feuds over mansion build",https://archive.ph/2024.04.17-121225/https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall,2024-04-17 16:37:16,114.0,62
+40069551,Ages of the People We Marry,https://flowingdata.com/2024/04/09/ages-of-the-people-we-choose-to-live-with-and-marry/,2024-04-17 20:11:47,3.0,63
+40044665,PuTTY vulnerability vuln-p521-bias,https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html,2024-04-15 19:24:52,545.0,64
+40055239,David Lynch presents 'A Thinking Room',https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024,2024-04-16 18:06:20,165.0,65
+40059783,Posteriors from Normal – Approximate Bayesian inference for large models,https://blog.normalcomputing.ai/posts/introducing-posteriors/posteriors.html,2024-04-17 02:27:36,14.0,66
+40047041,BTFS: BitTorrent Filesystem,https://github.com/johang/btfs,2024-04-16 00:08:46,371.0,67
+40069223,Tried to replicate Chinchilla paper and discovered discrepancies,https://twitter.com/tamaybes/status/1780639257389904013,2024-04-17 19:39:40,9.0,68
+40070038,"China lobbies Congress behind closed doors on TikTok, staffers say",https://www.politico.com/news/2024/04/17/china-lobbying-tiktok-congress-00152819,2024-04-17 21:03:54,14.0,69
+40064106,Flâneur,https://en.wikipedia.org/wiki/Fl%C3%A2neur,2024-04-17 13:12:15,26.0,70
+40061597,"Why the Higgs Field Is Nothing Like Molasses, Soup, or a Crowd",https://profmattstrassler.com/2024/04/16/why-the-higgs-field-is-nothing-like-molasses-soup-or-a-crowd/,2024-04-17 07:35:01,62.0,71
+40041198,Show HN: Building a GPS receiver,https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/,2024-04-15 14:42:10,535.0,72
+40057741,The Geiss screensaver and Winamp music visualization plug-in source code,https://github.com/geissomatik/geiss,2024-04-16 22:00:09,59.0,73
+40068206,AI isn't useless. But is it worth it?,https://www.citationneeded.news/ai-isnt-useless/,2024-04-17 18:09:07,6.0,74
+40060901,Tailscale SSH is now Generally Available,https://tailscale.com/blog/tailscale-ssh-ga,2024-04-17 05:45:43,188.0,75
+40064122,Few stations and $200 to fill up: Life on California's 'hydrogen highway',https://www.japantimes.co.jp/environment/2024/04/06/energy/hydrogen-vehicle-hurdles/,2024-04-17 13:13:41,15.0,76
+40058253,Cute trick for fetch-and-add-based queues,https://outerproduct.net/trivial/2024-04-16_faaqtr.html,2024-04-16 22:47:59,48.0,77
+40059829,Tax consequences of WIN95 team members keeping a piece of software for testing,https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663,2024-04-17 02:34:09,160.0,78
+40046692,Google Common Lisp Style Guide,https://google.github.io/styleguide/lispguide.xml,2024-04-15 23:08:10,143.0,79
+40054901,Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length,https://arxiv.org/abs/2404.08801,2024-04-16 17:40:47,158.0,80
+40063252,Full Line Code Completion in JetBrains IDEs,https://blog.jetbrains.com/blog/2024/04/04/full-line-code-completion-in-jetbrains-ides-all-you-need-to-know/,2024-04-17 11:49:04,37.0,81
+40060915,"How the Food Industry Pays Influencers to Shill Blueberries, Butter, and More",https://www.bonappetit.com/story/food-industry-influencers,2024-04-17 05:48:46,102.0,82
+40054263,Learn OAuth by building a client with Node.js,https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F,2024-04-16 16:47:28,94.0,83
+40058753,Use Your Potions and Scrolls,https://jerry.wtf/posts/use-your-potions/,2024-04-16 23:44:32,154.0,84
+40063458,A Dying Man's Lost Recipe Made His Daughter a Multimillionaire,https://www.fa-mag.com/news/a-dying-man-s-lost-recipe-made-his-daughter-a-multimillionaire-32420.html,2024-04-17 12:08:56,13.0,85
+40053257,Show HN: Term Typer – Learn a language by typing,https://www.termtyper.com/,2024-04-16 15:27:26,200.0,86
+40044881,The Making of Side 7: Gundam Evolution private server project,https://1379.tech/the-making-of-side-7-gundam-evolution-private-server-project/,2024-04-15 19:51:58,108.0,87
+40062210,Collection of notebooks showcasing some fun and effective ways of using Claude,https://github.com/anthropics/anthropic-cookbook,2024-04-17 09:15:00,118.0,88
+40064744,Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video],https://www.youtube.com/watch?v=zdv6MlFlOrA,2024-04-17 14:01:26,48.0,89
+40057322,Overture Maps Foundation Releases Beta of Its First Open Map Dataset,https://overturemaps.org/overture-maps-foundation-releases-beta-of-its-first-open-map-dataset/,2024-04-16 21:15:14,75.0,90
+40052729,Distributed Authorization,https://www.osohq.com/post/distributed-authorization,2024-04-16 14:51:48,144.0,91
+40035514,"Visualizing Attention, a Transformer's Heart [video]",https://www.3blue1brown.com/lessons/attention,2024-04-14 23:38:01,972.0,92
+40061650,Show HN: I made a custom cursor builder in 1 week,https://cursumber.com/,2024-04-17 07:45:10,6.0,93
+40059892,"OpenJS: ""XZ Utils Cyberattack Likely Not an Isolated Incident""",https://socket.dev/blog/openjs-xz-utils-cyberattack-likely-not-an-isolated-incident,2024-04-17 02:46:06,60.0,94
+40047212,"HonoJS: Small, simple, and ultrafast web framework for the Edges",https://github.com/honojs/hono,2024-04-16 00:41:33,291.0,95
+40059887,Stop Acting Like You're Famous,https://ajkprojects.com/stopactinglikeyourefamous,2024-04-17 02:44:58,531.0,96
+40068426,Quantum Turing Machine,https://en.wikipedia.org/wiki/Quantum_Turing_machine,2024-04-17 18:27:41,3.0,97
+40065166,GitHub – antirez/zx2040: RP2040 ZX Spectrum emulator,https://github.com/antirez/zx2040,2024-04-17 14:30:08,27.0,98
+40053774,This is a teenager,https://pudding.cool/2024/03/teenagers/,2024-04-16 16:07:59,1379.0,99
+40044901,Ramanujan's lost notebook,https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook,2024-04-15 19:54:14,302.0,100
+40054811,NSA publishes guidance for strengthening AI system security,https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/,2024-04-16 17:32:25,98.0,101
+40059332,Commodore 64 claimed to outperform IBM's quantum system,https://www.tomshardware.com/tech-industry/quantum-computing/commodore-64-outperforms-ibms-quantum-systems-1-mhz-computer-said-to-be-faster-more-efficient-and-decently-accurate,2024-04-17 01:12:37,51.0,102
+40050844,NPR suspends veteran editor as it grapples with his public criticism,https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay,2024-04-16 11:49:22,384.0,103
+40056311,Firefox Proton UI userChrome.css fixes. (2021),https://github.com/black7375/Firefox-UI-Fix,2024-04-16 19:42:04,102.0,104
+40049356,NASA Technology Helps Guard Against Lunar Dust,https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/,2024-04-16 07:42:57,41.0,105
+40063025,ChatControl: EU ministers want to exempt themselves,https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/,2024-04-17 11:23:18,388.0,106
+40067489,Effort – a possibly new algorithm for LLM Inference,https://kolinko.github.io/effort/,2024-04-17 17:09:17,124.0,107
+40063607,The Acid Test Clause (2017),https://www.stimmel-law.com/en/articles/story-2-acid-test-clause,2024-04-17 12:21:06,138.0,108
+40060545,Show HN: I made an AI fortune teller to predict the future,https://www.tarotread.ai/,2024-04-17 04:51:18,11.0,109
+40048541,Psychiatric risks for worsened mental health after psychedelic use,https://journals.sagepub.com/doi/10.1177/02698811241232548,2024-04-16 05:06:19,116.0,110
+40056916,What makes concurrency so hard?,https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/,2024-04-16 20:40:37,56.0,111
+40056256,Upgrading 3M Variables to Envelope Encryption,https://blog.railway.app/p/envelope-encryption,2024-04-16 19:38:25,28.0,112
+40060728,"Caching secrets of the HTTP elders, part 1",https://csvbase.com/blog/8,2024-04-17 05:19:55,135.0,113
+40049623,Show HN: a Rust based CLI tool 'imgcatr' for displaying images,https://github.com/SilinMeng0510/imgcatr,2024-04-16 08:30:46,125.0,114
+40038759,Weird monitor bugs people sent me in the last 5 years (2022),https://notes.alinpanaitiu.com/Weird-monitor-bugs,2024-04-15 10:42:04,185.0,115
+40049258,Only <Span>S,https://onlyspans.net/,2024-04-16 07:29:03,33.0,116
+40048874,Scammers are targeting teenage boys on social media and driving some to suicide,https://www.bloomberg.com/features/2024-sextortion-teen-suicides/,2024-04-16 06:17:08,144.0,117
+40046774,Show HN: Render audio waveforms to HTML canvas using WebGPU,item?id=40046774,2024-04-15 23:23:28,151.0,118
+40065445,Unearthing APT44: Russia's Notorious Cyber Sabotage Unit,https://cloud.google.com/blog/topics/threat-intelligence/apt44-unearthing-sandworm,2024-04-17 14:48:19,8.0,119
+40059648,Linux: Easy Keylogger with eBPF (2018),http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html,2024-04-17 02:04:02,7.0,120
+40059648,Linux: Easy Keylogger with eBPF (2018),http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html,2024-04-17 02:04:02,7.0,121
+40066945,"Ampere Readies 256-Core CPU Beast, Awaits the AI Inference Wave",https://www.nextplatform.com/2024/04/16/ampere-readies-256-core-cpu-beast-awaits-the-ai-inference-wave/,2024-04-17 16:28:33,3.0,122
+40066914,"How does this full-track, 3-wheel snow bike even turn?",https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/,2024-04-17 16:26:37,6.0,123
+40070570,Fr. Gregor Johann Mendel,https://en.wikipedia.org/wiki/Gregor_Mendel,2024-04-17 22:08:23,6.0,124
+40030746,Redis re-implemented with SQLite,https://github.com/nalgeon/redka,2024-04-14 12:51:51,488.0,125
+40058115,"3D-printed ""metamaterial"" is stronger than anything in nature",https://www.freethink.com/hard-tech/metamaterial,2024-04-16 22:33:14,49.0,126
+40044863,Phone conversations with law enforcement can be recorded without their consent,https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808,2024-04-15 19:49:42,394.0,127
+40055103,Show HN: API to turn entire websites into Markdown,https://www.firecrawl.dev/,2024-04-16 17:56:53,14.0,128
+40067445,Elon Musk's $56B Pay Up for Vote – Again,https://www.reuters.com/business/autos-transportation/tesla-asks-shareholders-vote-musks-compensation-plan-2024-04-17/,2024-04-17 17:06:12,16.0,129
+40047152,ResearchAgent: Iterative Research Idea Generation Using LLMs,https://arxiv.org/abs/2404.07738,2024-04-16 00:29:40,123.0,130
+40063794,The Making of Dune II,https://readonlymemory.com/the-making-of-dune-ii/,2024-04-17 12:38:34,73.0,131
+40070669,"Mickey, Minnie, Donald and Goofy file for union vote at Disneyland",https://www.cnn.com/2024/04/17/business/disneyland-union-vote/index.html,2024-04-17 22:20:50,8.0,132
+40066307,Cutting Stock Problem,https://en.wikipedia.org/wiki/Cutting_stock_problem,2024-04-17 15:45:52,3.0,133
+40037324,Learning about distributed systems: where to start? (2020),http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html,2024-04-15 05:26:47,187.0,134
+40055598,"Sweden has long opposed nuclear weapons, but once tried to build them",https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project,2024-04-16 18:36:27,102.0,135
+40038251,A tiny ultrabright laser that can melt steel,https://spectrum.ieee.org/pcsel,2024-04-15 09:02:49,321.0,136
+40069038,Tech war:Chinese scientists rigged a low-cost AI chip to power hypersonic weapon,https://www.scmp.com/news/china/science/article/3259166/tech-war-how-chinese-scientists-rigged-low-cost-ai-computer-chip-power-hypersonic-weapon,2024-04-17 19:22:48,5.0,137
+40063389,Tesla will ask shareholders to reinstate voided $56B stock grant for Musk,https://www.cnbc.com/2024/04/17/elon-musk-pay-tesla-to-ask-holders-to-reinstate-voided-stock-grant.html,2024-04-17 12:02:58,12.0,138
+40049400,Astronomers discover Milky Way’s biggest stellar black hole,https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun,2024-04-16 07:50:36,99.0,139
+40052611,The legal rule that computers are presumed to be operating correctly (2022) [pdf],https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf,2024-04-16 14:43:48,120.0,140
+40042616,Embezzlers Are Nice People (2017),https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people,2024-04-15 16:24:51,484.0,141
+40042497,Web-based Turbo Pascal compiler,https://github.com/lkesteloot/turbopascal,2024-04-15 16:15:39,162.0,142
+40059122,UI redesigns are mostly a waste of time (2019),https://debugandrelease.blogspot.com/2019/03/ui-redesigns-are-mostly-waste-of-time.html,2024-04-17 00:35:51,41.0,143
+40057289,"Amazon is filled with garbage e-books, this is how they get made",https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam,2024-04-16 21:12:17,226.0,144
+40066482,The Boring Phone,https://www.heineken.com/us/en/agegateway?returnurl=%2fglobal%2fen%2ftheboringphone,2024-04-17 15:57:05,46.0,145
+40038773,The purge of German science in 1933,https://www.privatdozent.co/p/the-great-purge-of-1933-9f0,2024-04-15 10:43:42,151.0,146
+40050259,Java 23: The New Features Are Officially Announced,https://coderoasis.com/java-23-new-features/,2024-04-16 10:11:32,121.0,147
+40065928,Unix and Multics History,https://multicians.org/unix.html,2024-04-17 15:18:30,17.0,148
+40035552,Spectral Ray Tracing,https://larswander.com/writing/spectral-ray-tracing/,2024-04-14 23:45:28,286.0,149
+40055931,Selling Lisp by the Pound,https://gist.github.com/no-defun-allowed/4f0a06e17b3ce74c6aeac514281f350f,2024-04-16 19:04:20,26.0,150
+40069514,High-speed trader Jane Street raked in $4.4B at start of 2024,https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6,2024-04-17 20:07:29,19.0,151
+40050894,Show HN: Monotone – bottomless embeddable storage for events (GA),https://monotone.studio,2024-04-16 11:58:22,17.0,152
+40051975,A Visual Guide to Vision Transformers,https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html,2024-04-16 14:00:58,229.0,153
+40068348,Roku TVs may inject tailored ads into anything and everything when you pause,https://www.theregister.com/2024/04/17/roku_tv_ad_patent/,2024-04-17 18:21:55,30.0,154
+40037486,Reproducing the printer hack of Windows 95,https://dpolakovic.space/blogs/windows-95-printer-hack,2024-04-15 06:04:53,86.0,155
+40037885,GOTO (2000),http://www.azillionmonkeys.com/qed/goto.html,2024-04-15 07:41:33,39.0,156
+40057063,"ISPs can charge extra for fast gaming under FCC's Internet rules, critics say",https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/,2024-04-16 20:54:38,78.0,157
+40048880,Amazon Echo Hacking Wiki,https://github.com/echohacking/wiki/wiki,2024-04-16 06:17:49,58.0,158
+40058399,Tell HN: We should snapshot a mostly AI output free version of the web,item?id=40058399,2024-04-16 23:05:11,129.0,159
+40043949,Lawyer divorces wrong couple through dropdown selection error,https://www.lawgazette.co.uk/news/firm-pledges-full-support-to-lawyer-over-online-divorce-mistake/5119365.article,2024-04-15 18:21:20,98.0,160
+40068467,Ukraine makes debut in NATO largest cyber security exercise,https://euromaidanpress.com/2024/04/17/ukraine-makes-debut-in-natos-locked-shields-2024-worlds-largest-cyber-security-exercise/,2024-04-17 18:31:36,9.0,161
+40069728,Tesla Cybertruck No Match for Car Wash,https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011,2024-04-17 20:28:31,15.0,162
+40035414,WireViz: Easily document cables and wiring harnesses,https://github.com/wireviz/WireViz,2024-04-14 23:22:43,251.0,163
+40052128,Founders need to be ruthless when chasing deals,https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/,2024-04-16 14:10:34,71.0,164
+40037466,Mini rope bridges built in Forest of Dean to help dormice,https://www.bbc.com/news/uk-england-gloucestershire-68788690,2024-04-15 06:00:13,98.0,165
+40069161,Why a $100k income no longer buys the American Dream in most places,https://www.cnbc.com/2024/04/16/why-a-100000-salary-no-longer-buys-the-american-dream-in-most-places.html,2024-04-17 19:34:32,21.0,166
+40054019,Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity,https://twitter.com/tonyzzhao/status/1780263497584230432,2024-04-16 16:28:16,219.0,167
+40037589,Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf],https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf,2024-04-15 06:30:50,39.0,168
+40060929,"Ur Quan Masters sequel Free Stars: Children of Infinity, by original devs",https://pistolshrimpgames.com/2024/04/kickstarter-launch-incoming/,2024-04-17 05:50:39,67.0,169
+40051524,Show HN: Search HN for interesting comment sections,https://www.searchhacker.news,2024-04-16 13:19:18,58.0,170
+40052684,Show HN: Device-Bound Session Tokens in JavaScript,https://session-lock.keyri.com/,2024-04-16 14:48:38,17.0,171
+40059630,I nearly died drowning,https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/,2024-04-17 02:00:23,192.0,172
+40052824,Efficient gas boiler with real-time data,https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026,2024-04-16 14:58:55,47.0,173
+40064343,"Qualified Immunity Protects the FBI, Mayors, and All Officials. Not Just Police [video]",https://www.youtube.com/watch?v=ag6SLAnfKtw,2024-04-17 13:32:40,5.0,174
+40067508,Big Tech Is Downsizing Workspace in Another Blow to Office Real Estate,https://www.wsj.com/real-estate/commercial/big-tech-is-downsizing-work-space-in-another-blow-to-office-real-estate-67b4685c,2024-04-17 17:11:32,6.0,175
+40057649,"Video2Game: Real-Time, Interactive, Realistic Environment from a Single Video",https://huggingface.co/papers/2404.09833,2024-04-16 21:49:53,26.0,176
+40038729,How much memory does a graph take?,https://jazco.dev/2024/04/15/in-memory-graphs/,2024-04-15 10:36:49,100.0,177
+40037396,A shrub in Nepal supplies the raw material for the bank notes used in Japan,https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html,2024-04-15 05:45:02,211.0,178
+40054531,Show HN: Bridge – Automatic Infrastructure for Django,https://github.com/Never-Over/bridge,2024-04-16 17:08:47,7.0,179
+40051698,AMD unveils Ryzen Pro 8000-series processors,https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market,2024-04-16 13:38:07,169.0,180
+40063959,Change Healthcare's ransomware attack costs edge toward $1B so far,https://www.theregister.com/2024/04/16/change_healthcares_ransomware_attack_has/,2024-04-17 12:56:48,3.0,181
+40051047,Alerts for social engineering takeovers of open source projects,https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/,2024-04-16 12:19:09,7.0,182
+40057860,Modern Datahand-style keyboard with trackball and trackpoint,https://svalboard.com/,2024-04-16 22:09:41,5.0,183
+40058291,Boeing's problems has cost United $200M in Q1 2024,https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html,2024-04-16 22:51:43,75.0,184
+40055120,We need to rewild the internet,https://www.noemamag.com/we-need-to-rewild-the-internet/,2024-04-16 17:57:31,350.0,185
+40050717,Thoughts on low latency trading if exchanges went full cloud,https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/,2024-04-16 11:28:12,184.0,186
+40030786,Trying to Understand Copilot's Type Spaghetti,https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/,2024-04-14 13:01:10,77.0,187
+40066329,Tesla pushes for $56B pay deal for Elon Musk 20240417_1621BST,https://www.bbc.co.uk/news/articles/cqqndqndpq5o,2024-04-17 15:47:23,22.0,188
+40056262,Nim Versions 2.0.4 and 1.6.20 released,https://nim-lang.org//blog/2024/04/16/versions-1620-204-released.html,2024-04-16 19:38:53,25.0,189
+40063615,TikTok's efforts to silo US data are 'largely cosmetic',https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo,2024-04-17 12:22:04,9.0,190
+40068652,"Google lays off employees, shifts some roles abroad amid cost cuts",https://www.reuters.com/technology/google-lays-off-employees-shifts-some-roles-abroad-amid-cost-cuts-2024-04-17/,2024-04-17 18:48:01,5.0,191
+40033268,Good news against dengue,https://www.science.org/content/blog-post/good-news-against-dengue,2024-04-14 18:36:31,168.0,192
+40045069,The demise of email forwarding is getting closer,https://talk.tidbits.com/t/the-demise-of-email-forwarding-is-getting-closer/27315,2024-04-15 20:15:49,69.0,193
+40063460,Neo (Keyboard Layout),https://en.wikipedia.org/wiki/Neo_(keyboard_layout),2024-04-17 12:09:01,6.0,194
+40062250,Telegram Founder Pavel Durov's Interview,https://www.reuters.com/technology/telegram-platform-hit-1-bln-users-within-year-founder-says-2024-04-17/,2024-04-17 09:22:11,13.0,195
+40037844,Beautifying Org Mode in Emacs (2018),https://zzamboni.org/post/beautifying-org-mode-in-emacs/,2024-04-15 07:32:28,226.0,196
+40061831,"Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split",https://github.com/ollama/ollama/releases/tag/v0.1.32,2024-04-17 08:15:36,101.0,197
+40058614,Millionaires' Effective Tax Rate Has Been Cut by Half Since Mid-20th Century,https://truthout.org/articles/millionaires-effective-tax-rate-has-been-cut-by-half-since-mid-20th-century/,2024-04-16 23:26:43,94.0,198
+40063300,Cooler transformers could help electric grid,https://www.sciencedaily.com/releases/2024/04/240416125322.htm,2024-04-17 11:54:03,6.0,199
+40054190,"How to stop losing 17,500 kidneys",https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys,2024-04-16 16:42:08,122.0,200
+40056318,The justice system's role in non disclosure of Horizon material,https://www.thejusticegap.com/the-justice-systems-role-in-non-disclosure-of-horizon-material/,2024-04-16 19:43:07,29.0,201
+40064646,Mixtral-8x22B-Instruct-v0.1,https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1,2024-04-17 13:54:35,18.0,202
+40051818,A framework to help B2B founders find product-market fit,https://pmf.firstround.com/levels,2024-04-16 13:48:55,181.0,203
+40043997,Self-hosting on a Raspberry Pi cluster,https://savannahostrowski.com/posts/raspberry-pi-cluster/,2024-04-15 18:25:34,61.0,204
+40068891,Why Boeing chief's $33M pay is hard to justify,https://www.ft.com/content/c3683fda-f4c6-44d2-bb1b-0eeab5af0f76,2024-04-17 19:10:14,9.0,205
+40033646,AI made these movies sharper – critics say it ruined them,https://www.nytimes.com/2024/04/13/movies/ai-blu-ray-true-lies.html,2024-04-14 19:25:42,171.0,206
+40058675,Ban of heat protections for outdoor workers could create 'public health crisis',https://www.wusf.org/health-news-florida/2024-04-12/desantis-ban-local-heat-protections-outdoor-workers-could-result-public-health-crisis,2024-04-16 23:34:04,55.0,207
+40037772,Better adb shell,https://github.com/matan-h/adb-shell,2024-04-15 07:16:13,100.0,208
+40048960,Should you use upper bound version constraints?,https://iscinumpy.dev/post/bound-version-constraints/,2024-04-16 06:33:56,46.0,209
+40059259,ROCm 6.1.0,https://github.com/ROCm/ROCm/releases/tag/rocm-6.1.0,2024-04-17 00:59:07,10.0,210
+40041406,Do we need to store all that telemetry?,https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/,2024-04-15 14:57:23,101.0,211
+40045319,Geometers Engineer New Tools to Wrangle Spacecraft Orbits,https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/,2024-04-15 20:43:53,61.0,212
+40036237,Computer-generated holography with ordinary display,https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876,2024-04-15 01:37:17,119.0,213
+40037619,"Control Linux based distros using hand gestures using OpenCV, GTK, Mediapipe",https://github.com/flying-pizza-69/GestureX,2024-04-15 06:39:36,78.0,214
+40058513,More Taxes on Capital Gains in Canada in 2024,https://www.theglobeandmail.com/politics/article-federal-budget-2024-targets-capital-gains-for-billions-in-new-revenue/,2024-04-16 23:17:46,14.0,215
+40041954,Ask HN: I want to create IMDB for open source projects,item?id=40041954,2024-04-15 15:35:30,234.0,216
+40059835,MKBHDs for Everything,https://stratechery.com/2024/mkbhds-for-everything/,2024-04-17 02:35:01,186.0,217
+40047419,Why We Practice Magic,https://press.princeton.edu/ideas/why-we-practice-magic,2024-04-16 01:13:34,40.0,218
+40057400,Getting Started with Llamafile Tutorial,https://allthingsopen.org/articles/getting-started-llamafile-tutorial/,2024-04-16 21:23:47,20.0,219
+40034563,PicoGK is a compact and robust geometry kernel for computational engineering,https://github.com/leap71/PicoGK,2024-04-14 21:17:34,59.0,220
+40045357,Nathan Tolbert pushes the limitations of new games on old consoles,https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/,2024-04-15 20:47:31,110.0,221
+40037646,Charge of the Savoia Cavalleria at Izbushensky,https://en.wikipedia.org/wiki/Charge_of_the_Savoia_Cavalleria_at_Izbushensky,2024-04-15 06:44:29,21.0,222
+40044464,Histomap: Visualizing the 4000 year history of global power (2021),https://www.visualcapitalist.com/histomap/,2024-04-15 19:05:36,77.0,223
+40048438,Democracy Dies Behind Paywalls – Paywalled,https://www.theatlantic.com/ideas/archive/2024/04/paywall-problems-media-trust-democracy/678032/,2024-04-16 04:43:10,77.0,224
+40034140,The Airship to Orbit Project,https://www.jpaerospace.com/ATO/ATO.html,2024-04-14 20:24:07,136.0,225
+40066376,McNamara Fallacy,https://en.wikipedia.org/wiki/McNamara_fallacy,2024-04-17 15:50:00,23.0,226
+40055269,Bloomberg's analysis didn't show that ChatGPT is racist,https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist,2024-04-16 18:08:10,64.0,227
+40031732,New Titanosaur Species Identified in Argentina,https://www.sci.news/paleontology/titanomachya-gimenezi-12853.html,2024-04-14 15:19:32,37.0,228
+40065555,Tesla putting Musk pay package up for another vote after judge voided first one,https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware,2024-04-17 14:55:07,11.0,229
+40058610,"From Florida to Australia, Global Coral Bleaching Could Soon Be Worst on Record",https://truthout.org/articles/global-coral-reef-bleaching-event-brings-bad-news-for-the-climate/,2024-04-16 23:26:02,11.0,230
+40031090,"Show HN: Stack, an open-source Clerk/Firebase Auth alternative",https://stack-auth.com/blog/introducing-stack,2024-04-14 14:00:11,143.0,231
+40047193,"Object that slammed into Florida home was space junk for ISS, NASA confirms",https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms,2024-04-16 00:38:47,175.0,232
+40048014,The project to migrate Android to Bazel is cancelled,https://twitter.com/MishaalRahman/status/1779985959926288407,2024-04-16 03:11:30,56.0,233
+40049985,Copenhagen's 400-yr-old exchange burns down,https://www.ft.com/content/f9ec9d26-81eb-40d9-9127-737f2d498c75,2024-04-16 09:27:53,27.0,234
+40062774,"NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types",https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/,2024-04-17 10:42:58,99.0,235
+40053576,Amazon HQ2 was supposed to add jobs last year. It shed them instead,https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/,2024-04-16 15:49:06,119.0,236
+40063014,Show HN: Open Source TailwindCSS UI Components,https://github.com/EasyFrontend-com/html-tailwindcss-components,2024-04-17 11:21:39,142.0,237
+40039143,Zooming User Interface (ZUI),https://en.wikipedia.org/wiki/Zooming_user_interface,2024-04-15 11:33:45,68.0,238
+40062892,The Ballmer Peak: An Empirical Search,https://arxiv.org/abs/2404.10002,2024-04-17 11:02:32,86.0,239
+40051347,Git Fix Um,http://sukima.github.io/GitFixUm/,2024-04-16 13:00:44,3.0,240
+40065760,World economy already committed to income reduction of 19% due to climate change,https://phys.org/news/2024-04-world-economy-committed-income-reduction.html,2024-04-17 15:07:21,7.0,241
+40034972,Ask HN: Is RAG the Future of LLMs?,item?id=40034972,2024-04-14 22:19:03,122.0,242
+40056939,US Senate to Vote on a Wiretap Bill That Critics Call 'Stasi-Like',https://www.wired.com/story/senate-section-702-ecsr-provision/,2024-04-16 20:42:53,78.0,243
+40065107,Power-hungry AI is putting the hurt on global electricity supply,https://arstechnica.com/ai/2024/04/power-hungry-ai-is-putting-the-hurt-on-global-electricity-supply/,2024-04-17 14:26:08,19.0,244
+40039191,We are moving to General Availability,https://supabase.com/ga,2024-04-15 11:39:30,263.0,245
+40046552,"To Build Muscle, It's the Sets That Count",https://www.outsideonline.com/health/training-performance/strength-training-non-responders/,2024-04-15 22:46:12,69.0,246
+40050737,Why mango sticky rice is one of Thailand's most beloved summer dishes,https://www.cnn.com/travel/mango-sticky-rice-thailand-summer-intl-hnk/index.html,2024-04-16 11:32:51,4.0,247
+40034869,Integral Calculator,https://www.integral-calculator.com/,2024-04-14 22:03:08,95.0,248
+40041430,An FDA approved device offers a new treatment for tinnitus,https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise,2024-04-15 14:58:41,301.0,249
+40050508,Detects AI-generated faces using Machine Learning,https://deefacedetective.onrender.com/,2024-04-16 10:53:38,4.0,250
+40037330,From L3 to seL4: 20 years of L4 microkernels (2013) [video],https://www.youtube.com/watch?v=RdoaFc5-1Rk,2024-04-15 05:27:39,70.0,251
+40057667,Tvix – A New Implementation of Nix,https://tvix.dev/,2024-04-16 21:51:27,84.0,252
+40037781,WD launches 4TB SD card,https://www.techradar.com/pro/wd-launches-enormous-4tb-sd-card-for-creative-pros-smashes-world-record-for-largest-removable-memory-card-to-smithereens-at-twice-the-capacity-of-biggest-microsd-cards,2024-04-15 07:17:40,75.0,253
+40070750,Tesla to Cut 14% of Buffalo Staff in Latest Layoffs,https://www.bloomberg.com/news/articles/2024-04-17/tesla-to-cut-14-of-buffalo-staff-as-layoff-details-emerge,2024-04-17 22:29:49,5.0,254
+40063414,"U.S. Geothermal Capacity Set To Grow by 1,900% by 2050",https://oilprice.com/Energy/Energy-General/US-Geothermal-Capacity-Set-To-Grow-by-1900-by-2050.html,2024-04-17 12:05:10,18.0,255
+40033261,The Battle to Define Mental Illness (2010),https://www.wired.com/2010/12/ff-dsmv/,2024-04-14 18:35:49,78.0,256
+40056883,"Our Instagram account got hacked and no one at Meta will help, what to do?",item?id=40056883,2024-04-16 20:38:12,13.0,257
+40030411,Show HN: I made a tool which fixes broken JSONs,https://prakhar897.github.io/json-fixer/,2024-04-14 11:39:58,28.0,258
+40043828,Manufacturing Bliss–Asterisk,https://asteriskmag.com/issues/06/manufacturing-bliss,2024-04-15 18:11:10,9.0,259
+40036431,The Wallis Annenberg Wildlife Crossing,https://101wildlifecrossing.org/,2024-04-15 02:10:01,70.0,260
+40042225,WizardLM 2,https://wizardlm.github.io/WizardLM2/,2024-04-15 15:54:33,162.0,261
+40058760,We need to reinvent democracy for the long-term (2019),https://www.bbc.com/future/article/20190318-can-we-reinvent-democracy-for-the-long-term,2024-04-16 23:45:16,11.0,262
+40066308,US FAA issues ground stop advisory for Alaska Airlines,https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/,2024-04-17 15:46:02,12.0,263
+40033497,Sandboxing all the things with Flatpak and BubbleBox,https://www.ralfj.de/blog/2024/04/14/bubblebox.html,2024-04-14 19:04:19,162.0,264
+40064755,"Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion",https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion,2024-04-17 14:02:22,101.0,265
+40043399,Testing Practical Common Lisp Code on Medley Interlisp,https://journal.paoloamoroso.com/testing-the-practical-common-lisp-code-on-medley,2024-04-15 17:33:39,18.0,266
+40063331,I can't use my number pad for 2FA codes,https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/,2024-04-17 11:56:59,206.0,267
+40033490,Show HN: I made a tool to clean and convert any webpage to Markdown,https://markdowndown.vercel.app/,2024-04-14 19:03:58,431.0,268
+40060436,China continues to subsidize deadly fentanyl exports,https://www.npr.org/2024/04/16/1244964595/fentanyl-china-precursor-overdose,2024-04-17 04:31:57,23.0,269
+40041976,An open-source implementation of Apple code signing and notarization (2022),https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/,2024-04-15 15:36:54,149.0,270
+40059882,"River 0.3.0, Waylock 1.0.0, Status Update",https://isaacfreund.com/blog/river-0.3-waylock-1.0/,2024-04-17 02:43:48,5.0,271
+40066560,Supabase Auth supports anonymous sign-ins,https://supabase.com/blog/anonymous-sign-ins,2024-04-17 16:02:56,13.0,272
+40065047,ASML profits plunge 40% amid dip in chipmaking tool orders,https://www.theregister.com/2024/04/17/asml_profits_slump_40_percent_q1_2024/,2024-04-17 14:22:11,18.0,273
+40037341,'The Invention of Prehistory' Review: Facing Deep Time,https://www.wsj.com/arts-culture/books/the-invention-of-prehistory-review-facing-deep-time-b8c224cc,2024-04-15 05:29:31,24.0,274
+40036138,1800-2023 – IEEE Standard for SystemVerilog,https://ieeexplore.ieee.org/document/10458102,2024-04-15 01:20:17,53.0,275
+40046670,Ask HN: How do you track copy changes on websites/emails?,item?id=40046670,2024-04-15 23:04:48,30.0,276
+40053136,Atlas shrugged: Boston Dynamics retires its hydraulic humanoid robot,https://techcrunch.com/2024/04/16/atlas-shrugged-boston-dynamics-retires-its-humanoid-robot/,2024-04-16 15:20:21,22.0,277
+40032869,Kate editor on all platforms,https://cullmann.io/posts/kate-on-all-platforms-2024/,2024-04-14 17:47:00,303.0,278
+40035185,Patchscopes: A framework for viewing hidden representations of language models,https://research.google/blog/patchscopes-a-unifying-framework-for-inspecting-hidden-representations-of-language-models/,2024-04-14 22:47:36,12.0,279
+40069233,The Lowest Pay US Workers Will Accept for a New Job Soars,https://www.bloomberg.com/news/articles/2024-04-15/the-lowest-pay-us-workers-will-accept-for-a-new-job-soars,2024-04-17 19:40:22,3.0,280
+40044742,Open-source passive radar taken down for regulatory reasons (2022),https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/,2024-04-15 19:34:50,66.0,281
+40058822,Earth Abides,https://en.wikipedia.org/wiki/Earth_Abides,2024-04-16 23:54:13,7.0,282
+40039689,Apple loses top phonemaker spot to Samsung,https://www.reuters.com/technology/apple-loses-top-phonemaker-spot-samsung-iphone-shipments-drop-idc-says-2024-04-15/,2024-04-15 12:28:29,53.0,283
+40039020,A proof-of-concept Python executable built on Cosmopolitan Libc (2021),https://ahgamut.github.io/2021/07/13/ape-python/,2024-04-15 11:17:44,150.0,284
+40065574,"World faces 'deathly silence' of nature as wildlife disappears, warn experts",https://www.theguardian.com/environment/2024/apr/16/world-faces-deathly-silence-of-nature-as-wildlife-disappears-warn-experts-aoe,2024-04-17 14:56:30,12.0,285
+40038712,The origin and virtues of semicolons in programming languages,https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/,2024-04-15 10:34:32,46.0,286
+40041667,Procrastination can be caused by anxiety,https://solvingprocrastination.com/anxiety/,2024-04-15 15:14:45,130.0,287
+40056200,"Low latency, conversational voice foundation model",https://twitter.com/carlcortright/status/1780314062695604646,2024-04-16 19:32:55,6.0,288
+40037811,Simplified Technical English,https://www.asd-ste100.org/,2024-04-15 07:26:23,80.0,289
+40048307,MSFT's WizardLM2 models have been taken down,https://huggingface.co/WizardLM/WizardLM-13B-V1.2,2024-04-16 04:19:20,57.0,290
+40037046,"Sleep apnea: Mouthguards less invasive, just as effective as CPAP",https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/,2024-04-15 04:20:55,218.0,291
+40033659,A primer on x86 by Casey Muratori and The Primeagen [video],https://www.youtube.com/watch?v=xCBrtopAG80,2024-04-14 19:27:01,109.0,292
+40038383,SpaceX's most-flown reusable rocket will go for its 20th launch tonight,https://arstechnica.com/space/2024/04/spacexs-most-flown-reusable-rocket-will-go-for-its-20th-launch-tonight/,2024-04-15 09:31:56,26.0,293
+40033335,Pikatea – Long Boi – Extra Long Keyboard Kit,https://www.pikatea.com/products/long-boi,2024-04-14 18:44:52,12.0,294
+40053453,Palo Alto – Putting the Protecc in GlobalProtect (CVE-2024-3400),https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/,2024-04-16 15:40:39,43.0,295
+40040694,Smishing scam regarding debt for road toll services,https://www.ic3.gov/Media/Y2024/PSA240412,2024-04-15 14:04:28,53.0,296
+40035919,Show HN: Semantic Search React Component,https://github.com/Mihaiii/semantic-autocomplete,2024-04-15 00:48:10,28.0,297
+40035636,Dumping Parallel NAND with Glasgow,https://colinoflynn.com/2024/04/dumping-parallel-nand-with-glasgow/,2024-04-14 23:57:57,39.0,298
+40033378,Mysterious Moving Pointers,https://blomqu.ist/posts/2024/move/,2024-04-14 18:50:28,54.0,299
+40034045,My cat alerted me to a DDoS attack,https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack,2024-04-14 20:12:27,275.0,300
+40037476,Show HN: Little Guys,https://willmeye.rs/bin/little-guys/,2024-04-15 06:02:48,13.0,301
+40050388,Ask HN: What older games are you playing through?,item?id=40050388,2024-04-16 10:33:17,30.0,302
+40034112,Ascender High Altitude Airships,https://www.jpaerospace.com/ascender175.html,2024-04-14 20:20:27,9.0,303
+40036536,Ask HN: What tool(s) do you use to code review and deploy SQL scripts?,item?id=40036536,2024-04-15 02:29:23,51.0,304
+40033984,Warp Factory: numerical toolkit for analyzing warp drive spacetimes,https://github.com/NerdsWithAttitudes/WarpFactory,2024-04-14 20:04:43,12.0,305
+40034699,U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel,https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e,2024-04-14 21:35:51,65.0,306
+40045934,Discovery of pottery rewrites Aboriginal history,https://phys.org/news/2024-04-discovery-pottery-rewrites-aboriginal-history.html,2024-04-15 21:38:25,4.0,307
+40037891,One Knuckle Rice Rule,https://indiantinker.bearblog.dev/proposed-amendments-to-one-knuckle-rice-rule/,2024-04-15 07:42:09,54.0,308
+40035630,The Intercept Is Running Out of Cash,https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash,2024-04-14 23:57:32,60.0,309
+40059174,Boeing whistleblower says 787 fleet should be grounded,https://thehill.com/homenews/4598076-boeing-whistleblower-says-787-fleet-should-be-grounded/,2024-04-17 00:44:49,100.0,310
+40049670,IPv6 for the remotely interested,https://ssg.dev/ipv6-for-the-remotely-interested-af214dd06aa7?gi=79f1ddf22e27,2024-04-16 08:39:04,63.0,311
+40045093,T-Mobile employees across the country receive cash offers to illegally swap SIMs,https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/,2024-04-15 20:19:17,455.0,312
+40054056,Rsync New Version – 3.3.0,https://download.samba.org/pub/rsync/NEWS#3.3.0,2024-04-16 16:31:56,30.0,313
+40047204,'Chinampas': The Ancient Aztec Floating Gardens That Hold Promise for Future,https://www.thearchaeologist.org/blog/chinampas-the-ancient-aztec-floating-gardens-that-hold-promise-for-future-urban-agriculture,2024-04-16 00:40:41,14.0,314
+40039391,The hero tax: Why 'selfless' workers are professionally exploited,https://www.bbc.com/worklife/article/20240409-heroic-jobs-earn-less-money,2024-04-15 12:02:53,115.0,315
+40063667,"ROCm 6.1 Released with Ubuntu 22.04.4 Support, RocDecode for AMD Video Decode",https://www.phoronix.com/news/AMD-ROCm-6.1-Released,2024-04-17 12:26:29,6.0,316
+40062271,The NSA is just days away from taking over the internet,https://twitter.com/Snowden/status/1779920066840055847,2024-04-17 09:28:05,609.0,317
+40062853,Linus Torvalds adds arbitrary tabs to kernel code,https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/,2024-04-17 10:56:10,9.0,318
+40062203,YouTube to start blocking third-party apps that don't show ads,https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/,2024-04-17 09:13:36,36.0,319
+40038309,The Queen of Sample Clearance: An Interview with Deborah Mannis-Gardner (2016),https://www.forbes.com/sites/passionoftheweiss/2016/02/19/the-queen-of-sample-clearance-an-interview-with-deborah-mannis-gardner/,2024-04-15 09:15:58,28.0,320
+40040043,"Limitless: Personalized AI powered by what you've seen, said, and heard",https://www.limitless.ai/,2024-04-15 13:04:34,100.0,321
+40033270,Practical Unix Manuals: mdoc (2014),https://manpages.bsd.lv/,2024-04-14 18:36:43,11.0,322
+40042007,Cycloidal marine propellers: Efficient thrust in any direction,https://newatlas.com/marine/abb-dynafin-marine-propulsion/,2024-04-15 15:38:34,100.0,323
+40032792,Show HN: Docker-boot – Run a system from RAM without LiveCD,https://github.com/purplesyringa/docker-boot,2024-04-14 17:38:05,27.0,324
+40047603,America's Bonds Are Getting Harder to Sell,https://www.wsj.com/finance/americas-bonds-are-getting-harder-to-sell-c3fde4de,2024-04-16 01:44:27,19.0,325
+40032352,The Wrath of Rickover,https://ussrickover.org/rcl-william-toti/,2024-04-14 16:37:42,8.0,326
+40061806,China's Punishment for People with Bad Debts: No Fast Trains or Nice Hotels,https://www.wsj.com/world/china/chinas-punishment-for-people-with-bad-debts-no-fast-trains-or-nice-hotels-bde24da2,2024-04-17 08:10:55,6.0,327
+40045905,Tesla postpones $25k electric car,https://electrek.co/2024/04/15/tesla-puts-electric-car-codenamed-nv9-back-burner-despite-elon-musk-said/,2024-04-15 21:35:31,19.0,328
+40067139,Climate crisis: average world incomes to drop by nearly a fifth by 2050,https://www.theguardian.com/environment/2024/apr/17/climate-crisis-average-world-incomes-to-drop-by-nearly-a-fifth-by-2050,2024-04-17 16:42:26,8.0,329
+40035084,Swatch Internet Time,https://en.wikipedia.org/wiki/Swatch_Internet_Time,2024-04-14 22:33:03,61.0,330
+40067139,Climate crisis: average world incomes to drop by nearly a fifth by 2050,https://www.theguardian.com/environment/2024/apr/17/climate-crisis-average-world-incomes-to-drop-by-nearly-a-fifth-by-2050,2024-04-17 16:42:26,8.0,331
+40039752,Getting the Grid to Net Zero,https://spectrum.ieee.org/electric-inverter,2024-04-15 12:34:14,111.0,332
+40030761,The Space Force is planning what could be the first military exercise in orbit,https://arstechnica.com/space/2024/04/the-space-force-is-planning-what-could-be-the-first-military-exercise-in-orbit/,2024-04-14 12:56:16,33.0,333
+40050242,Alleged cryptojacking scheme consumed $3.5M of stolen computing to make just $1M,https://arstechnica.com/security/2024/04/man-indicted-in-cryptojacking-scheme-that-stole-3-5m-from-cloud-providers/,2024-04-16 10:10:18,8.0,334
+40033039,Phanpy: A minimalistic opinionated Mastodon web client,https://phanpy.social,2024-04-14 18:06:43,140.0,335
+40055667,"GitHub: Awesome-reasoning, a curated list of datasets for reasoning AIs",https://github.com/neurallambda/awesome-reasoning,2024-04-16 18:42:24,15.0,336
+40052351,The Cloud Under the Sea,https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships,2024-04-16 14:25:59,15.0,337
+40046152,State tax officials are using AI to go after wealthy payers,https://www.cnbc.com/2024/04/15/state-tax-officials-use-ai-to-go-after-wealthy-payers.html,2024-04-15 21:57:20,16.0,338
+40061068,"Covid infections are causing IQ drops and years of brain aging, studies suggest",https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918,2024-04-17 06:14:35,253.0,339
+40055367,New iOS 17.5 Beta Lets EU iPhone Users Download Apps Directly from Websites,https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/,2024-04-16 18:16:31,22.0,340
+40061382,Google will pump more than $100B into AI says DeepMind boss,https://www.theregister.com/2024/04/17/google_deepmind_funding/,2024-04-17 07:02:12,19.0,341
+40042820,Radxa Rock 5 ITX: 8-Core ARM Mini ITX Board with LPDDR5 RAM,https://bret.dk/radxa-rock-5-itx-first-look/,2024-04-15 16:39:38,43.0,342
+40056229,The Americas Act and Its Chances of Becoming Law,https://globalamericans.org/explaining-and-predicting-the-americas-act-and-its-chances-of-becoming-law/,2024-04-16 19:35:45,22.0,343
+40037709,Show HN: Backprop GPU Cloud for affordable and high quality VMs,https://backprop.co,2024-04-15 06:59:18,3.0,344
+40054437,AT&T Fiber Internet Privacy controls are horribly broken,https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking,2024-04-16 17:01:15,71.0,345
+40044801,"Dun, Dun Duuun Where did pop culture's most dramatic sound come from? (2022)",https://www.theguardian.com/music/2022/jan/18/dun-dun-duuun-where-did-pop-cultures-most-dramatic-sound-come-from,2024-04-15 19:42:04,18.0,346
+40047989,Laser Rocket Anti-Drone Systems Being Rushed to U.S. Forces in the Middle East,https://www.twz.com/land/laser-rocket-anti-drone-systems-being-rushed-to-u-s-forces-in-the-middle-east,2024-04-16 03:05:59,14.0,347
+40032649,The argument against clearing the database between tests,https://calpaterson.com/against-database-teardown.html,2024-04-14 17:19:23,13.0,348
+40056460,TSMC Plans to Put a Trillion Transistors on a Single Package by 2030,https://www.techpowerup.com/317146/tsmc-plans-to-put-a-trillion-transistors-on-a-single-package-by-2030,2024-04-16 19:58:59,12.0,349
+40037395,"Show HN: Made a tool to find pitch deck examples, Make and share pitch deck",https://pitchdeck.design,2024-04-15 05:44:55,3.0,350
+40067125,Secret Russian foreign policy document urges action to weaken the U.S.,https://www.msn.com/en-us/news/world/secret-russian-foreign-policy-document-urges-action-to-weaken-the-us/ar-BB1lLEra,2024-04-17 16:41:11,9.0,351
+40030721,The Guide to Stock Options Conversations,https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations,2024-04-14 12:45:18,150.0,352
+40031305,Algae that can fix nitrogen – thanks to a tiny cell structure,https://www.nature.com/articles/d41586-024-01046-z,2024-04-14 14:29:10,107.0,353
+40052212,Show HN: Janus – A read/write MySQL proxy for Rails' ActiveRecord 7.1,https://tech.olioex.com/ruby/2024/04/16/introducing-janus.html,2024-04-16 14:16:21,6.0,354
+40044912,Colorado funeral home where 190 bodies were found charged with Covid fraud,https://www.theguardian.com/us-news/2024/apr/15/colorado-funeral-home-owners-charged-covid-fraud,2024-04-15 19:55:52,28.0,355
+40036784,Show HN: Solo founder launched iOS Development Agency as a Subscription,https://www.swiftapplab.com/,2024-04-15 03:24:18,7.0,356
+40036104,RocketStar tests fusion-enhanced in-space propulsion process,https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html,2024-04-15 01:15:49,73.0,357
+40031365,A day in the life of a Walmart manager,https://www.wsj.com/business/retail/a-day-in-the-life-of-a-walmart-manager-who-makes-240-000-a-year-3248037f,2024-04-14 14:35:25,146.0,358
+40047040,Apple: No notes taken at executive meetings,https://www.afr.com/technology/apple-s-secret-to-success-don-t-take-notes-and-worry-about-the-numbers-20240415-p5fjuz,2024-04-16 00:08:23,13.0,359
+40038922,Are flying cars finally here?,https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here,2024-04-15 11:05:27,32.0,360
+40031054,The unwritten laws of engineering at Stedi,https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi,2024-04-14 13:55:19,52.0,361
+40040794,RAGKit with Kyle Davis – Weaviate Podcast #93,item?id=40040794,2024-04-15 14:13:25,16.0,362
+40040100,Tesla Cybertruck deliveries halted for 7 days,https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17,2024-04-15 13:10:48,292.0,363
+40046425,Los Angeles Warehouse Vacancies Climb to Highest in a Decade,https://www.bloomberg.com/news/articles/2024-04-15/los-angeles-warehouse-vacancies-climb-to-highest-in-a-decade,2024-04-15 22:28:11,10.0,364
+40035842,America's Next Soldiers Will Be Machines,https://foreignpolicy.com/2024/04/06/us-army-military-robots-soldiers-technology-testing-war/,2024-04-15 00:35:06,20.0,365
+40044355,We have no idea how models will behave in production until production,https://arxiv.org/abs/2403.16795,2024-04-15 18:58:55,38.0,366
+40035584,x86 and x86_64 software optimization resources,https://agner.org/optimize/,2024-04-14 23:51:30,92.0,367
+40041986,Pile-T5,https://blog.eleuther.ai/pile-t5/,2024-04-15 15:37:34,58.0,368
+40033845,How macOS opens a file in the correct app,https://eclecticlight.co/2024/04/10/how-macos-opens-a-file-in-the-correct-app/,2024-04-14 19:49:33,32.0,369
+40047807,Ex-TikTok employees say the company worked closely with its China-based parent,https://fortune.com/2024/04/15/tiktok-china-data-sharing-bytedance-project-texas/,2024-04-16 02:27:23,44.0,370
+40047967,Tesla lays off more than 10% of its workforce,https://www.bbc.com/news/technology-68818113,2024-04-16 03:00:17,24.0,371
+40036101,APFS Migration: A Feat of Engineering,https://registerspill.thorstenball.com/p/a-feat-of-engineering,2024-04-15 01:15:20,15.0,372
+40040593,Neon Serverless Postgres is generally available,https://neon.tech/blog/neon-ga,2024-04-15 13:55:53,320.0,373
+40041309,Deliberative Consensus Protocols,https://social-protocols.org/deliberative-consensus-protocols/,2024-04-15 14:49:51,23.0,374
+40037583,Challenging software projects some programmers should try,https://www.andreinc.net/2024/03/28/programming-projects-ideas,2024-04-15 06:30:05,67.0,375
+40033401,Show HN: Minipic convert and compress images multiple formats locally in browser,https://minipic.app,2024-04-14 18:53:37,4.0,376
+40032963,The tiny ultrabright laser that can melt steel,https://spectrum.ieee.org/pcsel,2024-04-14 17:58:07,7.0,377
+40046729,Wall Street keeps underestimating the US economy,https://www.axios.com/2024/04/14/stock-market-bonds-interest-rates-us-economy,2024-04-15 23:14:36,9.0,378
+40048549,America's Big Chipmaking Blunder [video],https://www.youtube.com/watch?v=NFLjeyd2M0k,2024-04-16 05:06:58,11.0,379
+40034411,Senate Commerce Committee chair Maria Cantwell upended privacy bills for years,https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/,2024-04-14 20:58:18,83.0,380
+40043155,California has set a benchmark for renewable energy,https://www.thecooldown.com/green-tech/california-renewable-energy-100-percent-grid/,2024-04-15 17:12:14,24.0,381
+40037898,Builder's remedy was supposed to 'Manhattanize' the Bay Area,https://www.mercurynews.com/2024/04/14/builders-remedy-was-supposed-to-manhattanize-the-bay-area-so-where-are-all-the-houses/,2024-04-15 07:43:23,15.0,382
+40032002,Google FeedBurner Dead?,https://feedburner.google.com/,2024-04-14 15:52:05,8.0,383
+40045855,Refal,https://en.wikipedia.org/wiki/Refal,2024-04-15 21:30:40,6.0,384
+40035201,Ask HN: What do you need to know to be good at the Unix Command Line?,item?id=40035201,2024-04-14 22:49:59,17.0,385
+40045623,Statistical Rethinking: a course on Bayesian data analysis [video],https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1,2024-04-15 21:10:12,14.0,386
+40031009,"Show HN: Tech Interview Experience from Google, Microsoft, and Atlassian",https://techinterviewexp.site/,2024-04-14 13:47:46,6.0,387
+40058829,The US reauthorizing and expanding its surveillance laws,https://www.theguardian.com/us-news/2024/apr/16/house-fisa-government-surveillance-senate,2024-04-16 23:54:54,40.0,388
+40034672,Ask HN: C++ devs who went C only,item?id=40034672,2024-04-14 21:31:53,18.0,389
+40054326,Redis is forked,https://vickiboykis.com/2024/04/16/redis-is-forked/,2024-04-16 16:51:34,223.0,390
+40053710,Firefox 125,https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/,2024-04-16 16:02:10,209.0,391
+40030567,How a microprocessor works implemented with FPGA,https://twitter.com/BrunoLevy01/status/1643305642147340316,2024-04-14 12:10:13,4.0,392
+40045318,An unbiased evaluation of Python environment and packaging tools (2023),https://alpopkes.com/posts/python/packaging_tools/,2024-04-15 20:43:51,35.0,393
+40057702,German transport minister warns of weekend driving ban,https://www.telegraph.co.uk/world-news/2024/04/12/german-transport-minister-warns-of-weekend-driving-ban/,2024-04-16 21:55:44,11.0,394
+40047256,"No I don't want 2, Emacs",https://www.emoses.org/posts/dont-write-2/,2024-04-16 00:47:43,35.0,395
+40051100,$10M in Gold Disguised as Machine Parts Seized from Cargo Plane,https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958,2024-04-16 12:27:24,86.0,396
+40047647,Japanese minimalist and his designs for a minimalist lifestyle,https://www.youtube.com/watch?v=XBQBKseozuY,2024-04-16 01:52:32,17.0,397
+40047611,St. Louis office tower lost 98% of its value,https://www.morningbrew.com/daily/stories/2024/04/14/undefined,2024-04-16 01:45:07,11.0,398
+40056124,"Two nights before the attack, Salman Rushdie dreamed he was stabbed onstage",https://www.npr.org/2024/04/16/1244847366/salman-rushdie-knife,2024-04-16 19:25:05,7.0,399
+40045862,Ask HN: What book have you given as a gift?,item?id=40045862,2024-04-15 21:31:04,11.0,400
+40033465,"Turning off electrical grids to prevent wildfire− a complex, technical operation",https://theconversation.com/colorado-is-latest-state-to-try-turning-off-the-electrical-grid-to-prevent-wildfires-a-complex-technical-operation-pioneered-in-california-227639,2024-04-14 19:00:31,45.0,401
+40064346,Elon Musk confirms that Twitter will charge new users a temporary fee,https://9to5mac.com/2024/04/15/musk-charge-new-x-users-fee/,2024-04-17 13:32:47,8.0,402
+40054122,NASA tries to jog Voyager 1's memory from 15B miles away,https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/,2024-04-16 16:36:26,50.0,403
+40041273,All Bad Bosses at Amazon Are Now Named 'Wayne',https://www.404media.co/bad-amazon-bosses-wayne/,2024-04-15 14:47:26,5.0,404
+40048695,"Iran Attacks Israel, Sort Of –| Peter Zeihan [video]",https://www.youtube.com/watch?v=W4W0FHJ8A0o,2024-04-16 05:39:44,4.0,405
+40064225,New Boston Dynamics humanoid robot [video],https://www.youtube.com/watch?v=29ECwExc-_M,2024-04-17 13:22:51,117.0,406
+40042609,Ask HN: Books for engaging with business problems as an IC?,item?id=40042609,2024-04-15 16:24:21,14.0,407
+40060624,US provides assurances to prevent Julian Assange appeal against extradition,https://www.theguardian.com/media/2024/apr/16/us-provides-assurances-to-prevent-assange-appeal-against-extradition,2024-04-17 05:04:09,8.0,408
+40036429,Thermoelectric Cooling,https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/,2024-04-15 02:09:39,56.0,409
+40056315,How the greatest MP3 player undid itself (2012),https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/,2024-04-16 19:42:57,49.0,410
+40035748,Pulsed charging enhances the service time of batteries,https://www.sciencedaily.com/releases/2024/04/240409123909.htm,2024-04-15 00:16:42,14.0,411
+40037279,Mercury: The Solar System's smallest planet may once have been as large as Earth,https://www.bbc.com/future/article/20240410-mercury-the-solar-systems-smallest-planet-may-once-have-been-as-large-as-earth,2024-04-15 05:15:52,11.0,412
+40037177,Apple Removes Game Boy Emulator iGBA from App Store Due to Copyright Violations,https://www.macrumors.com/2024/04/15/apple-removes-igba-from-app-store/,2024-04-15 04:51:44,16.0,413
+40038738,Albino Redwood,https://en.wikipedia.org/wiki/Albino_redwood,2024-04-15 10:37:50,16.0,414
+40043103,"Ocean heat driving global coral bleaching event, possibly the worst on record",https://www.cnn.com/2024/04/15/climate/global-coral-reef-mass-bleaching-climate-hnk-intl/index.html,2024-04-15 17:06:20,31.0,415
+40054369,The rescue plan that might have saved space shuttle Columbia,https://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/,2024-04-16 16:55:36,11.0,416
+40033522,Personal VPN services are snake oil,https://httpscolonforwardslashforwardslashwwwdotzoltanbalazsdotcom.com/2024/03/01/VPN-Snakeoil.html,2024-04-14 19:08:10,145.0,417
+40035225,Saskatoon freezing deaths,https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths,2024-04-14 22:53:54,80.0,418
+40035002,Ask HN: What movies changed your perception of reality or life?,item?id=40035002,2024-04-14 22:23:11,112.0,419
+40048061,"Happy 20th Anniversary, Gmail. I'm Sorry I'm Leaving You",https://www.nytimes.com/2024/04/07/opinion/gmail-email-digital-shame.html,2024-04-16 03:18:47,20.0,420
+40047947,All 'Reporting from Ukraine' channels are being deleted by YouTube,https://old.reddit.com/r/ukraine/comments/1c53mzo/all_reporting_from_ukraine_channels_are_being/,2024-04-16 02:55:42,32.0,421
+40044243,XZ Utils review notes,https://tukaani.org/xz-backdoor/review.html,2024-04-15 18:49:43,95.0,422
+40049445,Open source Substack rival Ghost may join the Fediverse,https://techcrunch.com/2024/04/15/open-source-substack-rival-ghost-may-join-the-fediverse/,2024-04-16 07:56:09,15.0,423
+40052690,Russian space chief says new rocket will put Falcon 9 reuse to shame,https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/,2024-04-16 14:48:57,8.0,424
+40036678,Frank Zappa on Crossfire about censoring rock lyrics (1986) [video],https://www.youtube.com/watch?v=B9856_xv8gc,2024-04-15 02:58:57,38.0,425
+40037645,Best way to display photorealistic 3D in the browser?,item?id=40037645,2024-04-15 06:43:49,4.0,426
+40046002,California Hits 'Historical' Renewable Energy Milestone,https://www.newsweek.com/california-milestone-renewable-energy-1890345,2024-04-15 21:44:07,3.0,427
+40041784,US House approves FISA renewal – warrantless surveillance and all,https://www.theregister.com/2024/04/15/security_in_brief/,2024-04-15 15:23:08,122.0,428
+40045744,Why the limitations of the N64 and PS1 help create unique gameplay [video],https://www.youtube.com/watch?v=nUjoMdWH-JI,2024-04-15 21:20:51,6.0,429
+40031256,Roku says hackers gained access to 576k accounts in latest data-breach incident,https://www.wsj.com/tech/roku-says-hackers-gained-access-to-576-000-accounts-in-latest-data-breach-incident-8f73ab15,2024-04-14 14:23:25,131.0,430
+40036284,Paradox of Plenty,https://en.wikipedia.org/wiki/Resource_curse,2024-04-15 01:46:00,14.0,431
+40035528,Asianometry: The Birth of SQL and the Relational Database [video],https://www.youtube.com/watch?v=z8L202FlmD4,2024-04-14 23:40:50,13.0,432
+40037997,Arch Linux 2024 Leader Election Results,https://archlinux.org/news/arch-linux-2024-leader-election-results/,2024-04-15 08:09:00,4.0,433
+40043595,From Vim to Zed,https://registerspill.thorstenball.com/p/from-vim-to-zed,2024-04-15 17:51:13,5.0,434
+40038395,'We're the last bastion of rental': video stores resisting rise of streaming,https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops,2024-04-15 09:34:02,62.0,435
+40054832,Torvalds intentionally complicates his use of indentation in kconfig,https://www.theregister.com/2024/04/16/torvalds_complicates_his_indents/,2024-04-16 17:34:53,12.0,436
+40033444,"Naval Ravikant's Airchat is a social app built around talk, not text",https://techcrunch.com/2024/04/13/airchat-launch/,2024-04-14 18:58:43,9.0,437
+40037042,Optical Tweezers,https://en.wikipedia.org/wiki/Optical_tweezers,2024-04-15 04:19:00,4.0,438
+40039450,"Framework's software and firmware have been a mess, but it's working on them",https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/,2024-04-15 12:07:14,89.0,439
+40033015,Israeli Hetz 3 or US Navy SM-3 caught Iranian exoatmospheric threat,https://bulgarianmilitary.com/2024/04/14/israeli-hetz-3-or-us-navy-sm-3-caught-iranian-exoatmospheric-threat/,2024-04-14 18:04:29,10.0,440
+40047698,YouTube algorithm weaponised to shut down Russia-Ukraine war reporting channel [video],https://www.youtube.com/watch?v=2v063wuJtM0,2024-04-16 02:04:48,60.0,441
+40047580,Seismologists suspect earthquake on San Andreas Fault is imminent,https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html,2024-04-16 01:41:23,67.0,442
+40032974,"White House, Senate Democrats unveil bill to battle pandemic aid fraud",https://www.washingtonpost.com/business/2024/04/09/covid-aid-fraud-congress/,2024-04-14 18:00:26,21.0,443
+40036408,Humane AI Pin: The Worst Product I've Ever Reviewed for Now [video],https://www.youtube.com/watch?v=TitZV6k8zfA,2024-04-15 02:05:03,28.0,444
+40043888,Apple's APFS Migration: A Feat of Engineering,https://registerspill.thorstenball.com/p/a-feat-of-engineering,2024-04-15 18:16:31,88.0,445
+40051597,"To make a fortune, target bored young men who want to make a fortune",https://www.businessinsider.com/gambling-young-men-sports-betting-crypto-meme-stock-market-addiction-2024-4,2024-04-16 13:26:18,163.0,446
+40035532,Top cosmologists convene to question conventional view of the universe,https://www.theguardian.com/science/2024/apr/14/worlds-top-cosmologists-convene-to-question-conventional-view-of-the-universe,2024-04-14 23:41:04,7.0,447
+40035523,Replicable functional brain signatures of 22q11.2 deletion syndrome andpsychosis,https://www.nature.com/articles/s41380-024-02495-8,2024-04-14 23:39:58,4.0,448
+40035003,Visual processing speed and its association w future dementia: prospective study,https://pubmed.ncbi.nlm.nih.gov/38424122/,2024-04-14 22:23:16,6.0,449
+40063867,Student debt is haunting Americans from graduation to retirement,https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html,2024-04-17 12:46:41,42.0,450
+40034482,"Show HN: Cloudzip – mount remote zip files (S3, Kaggle) as a local directory",https://twitter.com/ozkatz100/status/1778802237512249724,2024-04-14 21:06:14,5.0,451
+40040030,Medium bans AI-generated content from its paid Partner Program,https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/,2024-04-15 13:03:38,47.0,452
+40037996,Lucky vs. Repeatable,https://collabfund.com/blog/lucky-vs-repeatable/,2024-04-15 08:08:45,5.0,453
+40047338,Show HN: YouTube Shorts Redirector,https://github.com/adamenger/youtube-shorts-redirector,2024-04-16 00:59:29,55.0,454
+40033307,Government spyware is another reason to use an ad blocker,https://techcrunch.com/2024/04/13/government-spyware-use-ad-blocker/,2024-04-14 18:42:29,9.0,455
+40033221,Cancer patients can now be 'matched' to best treatment with DNA,https://theconversation.com/personalized-cancer-treatments-based-on-testing-drugs-quickly-leads-to-faster-treatment-better-outcomes-221469,2024-04-14 18:30:12,7.0,456
+40056115,YouTube puts third-party clients on notice: Show ads or get blocked,https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/,2024-04-16 19:24:27,11.0,457
+40034806,Mad MAX was released 45 years ago this week,https://twitter.com/ATRightMovies/status/1779443434790522982,2024-04-14 21:53:20,16.0,458
+40047056,Ask HN: Flutter or React Native?,item?id=40047056,2024-04-16 00:11:36,8.0,459
+40039581,FBI Opens Criminal Investigation into Baltimore Bridge Collapse,https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78,2024-04-15 12:19:41,87.0,460
+40037005,Salesforce in Advanced Talks to Buy Informatica,https://www.wsj.com/tech/salesforce-in-advanced-talks-to-buy-informatica-ba9ec09c,2024-04-15 04:10:51,9.0,461
+40045396,Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 (2017),https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/,2024-04-15 20:51:15,46.0,462
+40038501,North Korea Hacked Him. So He Took Down Its Internet (2022),https://www.wired.com/story/north-korea-hacker-internet-outage/,2024-04-15 09:57:11,69.0,463
+40047498,Elon Musk says new X users have to pay to tweet,https://qz.com/elon-musk-twitter-spam-bots-annual-fee-tweet-1851411201,2024-04-16 01:27:36,20.0,464
+40045866,Ask HN: Does it cost more to build an iOS app than a web app?,item?id=40045866,2024-04-15 21:31:13,8.0,465
+40048842,California exceeds 100% of energy demand with renewables over a record 30 days,https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/,2024-04-16 06:09:11,136.0,466
+40035743,Why is Montreal a stolen car export hub?,https://nationalpost.com/news/canada/why-is-montreal-a-stolen-car-export-hub-jurisdiction-limits-and-size-officials-say,2024-04-15 00:16:11,38.0,467
+40061707,Generation Z is unprecedentedly rich,https://www.economist.com/finance-and-economics/2024/04/16/generation-z-is-unprecedentedly-rich,2024-04-17 07:55:50,29.0,468
+40044940,An old rail track in Northern California could become a 300-mile hiking trail,https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail,2024-04-15 19:59:26,34.0,469
+40055883,'Water is more valuable than oil': the corporation cashing in on America drought,https://www.theguardian.com/environment/2024/apr/16/arizona-colorado-river-water-rights-drought,2024-04-16 19:00:02,4.0,470
+40042763,The truth is paywalled but the lies are free (2020),https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/,2024-04-15 16:34:53,38.0,471
+40053466,US government’s reliance on Microsoft means the company gets a free pass,https://www.wired.com/story/the-us-government-has-a-microsoft-problem/,2024-04-16 15:41:32,63.0,472
+40047946,A cartoon intro to DNS over HTTPS (2018),https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/,2024-04-16 02:55:26,7.0,473
+40050009,iOS404,https://ios404.com/,2024-04-16 09:31:46,157.0,474
+40043110,Torvalds Injects Tabs to Thwart Kconfig Parsers Not Correctly Handling Them,https://www.phoronix.com/news/Linux-Kconfig-Tabs,2024-04-15 17:06:43,40.0,475
+40033166,Why America Fell for Guns,https://aeon.co/essays/america-fell-for-guns-recently-and-for-reasons-you-will-not-guess,2024-04-14 18:21:21,9.0,476
+40050514,AI cloud startup TensorWave bets AMD can beat Nvidia,https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/,2024-04-16 10:55:01,35.0,477
+40039021,EU data shows PHEVs emit 350% more CO2 than tested values,https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values,2024-04-15 11:17:46,77.0,478
+40032233,Hospitals that make profits should pay taxes,https://www.statnews.com/2024/04/14/nonprofit-hospitals-turn-profit-charity-care-tax-exempt-status/,2024-04-14 16:23:30,257.0,479
+40031088,Monomyth,https://en.wikipedia.org/wiki/Hero%27s_journey,2024-04-14 13:59:57,5.0,480
+40031088,Monomyth,https://en.wikipedia.org/wiki/Hero%27s_journey,2024-04-14 13:59:57,5.0,481
+40032750,Hidden dependencies in Linux binaries,http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html,2024-04-14 17:33:02,116.0,482
+40043711,Ketogenic diet may play a role in treating schizophrenia: research (2019),https://www.psychologytoday.com/us/blog/advancing-psychiatry/201904/chronic-schizophrenia-put-remission-without-medication,2024-04-15 18:00:14,25.0,483
+40034839,TCS sued for discriminating against Americans for H1Bs,https://economictimes.indiatimes.com/nri/work/us-techie-sues-tcs-for-discrimination-against-americans-and-favouring-indians-on-h-1b-visas/articleshow/109237855.cms?from=mdr,2024-04-14 21:58:35,18.0,484
+40039591,Open source versus Microsoft: The new rebellion begins,https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/,2024-04-15 12:20:31,114.0,485
+40030354,Is the Atlantic Overturning Circulation Approaching a Tipping Point?,https://tos.org/oceanography/article/is-the-atlantic-overturning-circulation-approaching-a-tipping-point,2024-04-14 11:25:04,72.0,486
+40052127,Dead satellites could affect Earth's magnetic field,https://www.theguardian.com/commentisfree/2024/apr/16/dead-satellite-space-earth-magnetic-field,2024-04-16 14:10:30,6.0,487
+40053591,Time Magazine's Best Inventions of 2023 Award for Humane's AI Pin,https://daringfireball.net/linked/2024/04/15/claim-chowder-time-humane,2024-04-16 15:50:30,56.0,488
+40048533,Blaming Food for Obesity Is Like Blaming Water for Drowning,https://realclearwire.com/articles/2024/04/09/a_heretics_view_blaming_food_for_obesity_is_like_blaming_water_for_drowning_1023353.html,2024-04-16 05:04:39,4.0,489
+40035696,$45K EV smuggles a 620-mile solid-state battery out of the lab,https://newatlas.com/automotive/im-ls-lightyear-solid-state/,2024-04-15 00:08:42,11.0,490
+40040738,TwitchAdSolutions – Blocking Twitch Ads,https://github.com/pixeltris/TwitchAdSolutions,2024-04-15 14:07:58,114.0,491
+40043297,92 out of the top 500 Reddit subs are controlled by just 4 people,https://twitter.com/reddit_lies/status/1778899250857783731,2024-04-15 17:26:13,21.0,492
+40049457,Microsoft Invests $1.5B in G42,https://news.microsoft.com/2024/04/15/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/,2024-04-16 07:57:49,20.0,493
+40051223,Ice to treat soft-tissue injuries contraindicated by creator of protocol,https://en.wikipedia.org/wiki/RICE_(medicine),2024-04-16 12:42:52,62.0,494
+40033870,Emacs 2011-2023,https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html,2024-04-14 19:52:02,63.0,495
+40043536,60k On Hold with Stripe for 9 months..,item?id=40043536,2024-04-15 17:44:38,22.0,496
+40047330,"Kansas couple sues MaxMind for turning their life into a ""digital hell"" (2016)",https://arstechnica.com/tech-policy/2016/08/kansas-couple-sues-ip-mapping-firm-for-turning-their-life-into-a-digital-hell/,2024-04-16 00:57:09,4.0,497
+40033499,Linux 6.10 to Merge Driver for Emulating Windows NT Synchronization Primitives,https://www.phoronix.com/news/Linux-6.10-Merging-NTSYNC,2024-04-14 19:04:29,43.0,498
+40042300,Roku makes 2FA mandatory for all after nearly 600K accounts pwned,https://www.theregister.com/2024/04/15/roku_2fa_for_everyone/,2024-04-15 15:59:30,23.0,499
+40053550,BYD cars closer to be sold in the US,https://carbuzz.com/news/byd-is-one-step-closer-to-selling-cars-in-america/,2024-04-16 15:47:20,10.0,500
+40038330,"Apple Readies M4 Chip Mac Line, Including New MacBook Air and Mac Pro",https://www.bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro,2024-04-15 09:22:41,36.0,501
+40050302,"Tesla Cybertruck's Stuck Accelerator Pedal Creates 6,800-Pound Land Missile",https://insideevs.com/news/716031/tesla-cybertruck-stuck-accelerator-pedal/,2024-04-16 10:18:31,55.0,502
+40040748,Fortran Standard Library: release v0.5.0,https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827,2024-04-15 14:09:00,19.0,503
+40035258,"From boom to burst, the AI bubble is only heading in one direction",https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction,2024-04-14 23:00:11,19.0,504
+40057084,'Pacifist' Japan is tooling up for war,https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/,2024-04-16 20:56:16,56.0,505
+40039207,Tesla Allegedly Pauses Cybertruck Deliveries,https://www.theautopian.com/tesla-allegedly-pauses-cybertruck-deliveries-as-owner-complains-accelerator-pedal-fell-apart/,2024-04-15 11:43:06,24.0,506
+40044187,Judge halts Texas probe into Media Matters' reporting on X,https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/,2024-04-15 18:44:54,51.0,507
+40035739,Apple's iPhone Shipments Plunge 10% as Android Rivals Rise,https://www.bloomberg.com/news/articles/2024-04-15/apple-s-iphone-shipments-plunge-10-as-android-rivals-rise,2024-04-15 00:15:54,42.0,508
+40050872,Python Chart Examples,https://python-graph-gallery.com/best-python-chart-examples/,2024-04-16 11:54:41,49.0,509
+40046370,Something for the metalheads: Master Boot Record – Internet Protocol [video],https://www.youtube.com/watch?v=t6KFfYdNPh8,2024-04-15 22:22:18,16.0,510
+40053027,Why does The Gimp have a green pepper brush?,https://old.reddit.com/r/linux/comments/1e1nzm/why_the_fuck_does_gimp_even_have_this_useless/,2024-04-16 15:13:17,6.0,511
+40033533,Journalism in the Digital Age,https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Journalism/index.html,2024-04-14 19:09:35,27.0,512
+40048657,My battle with Tesla: I want to clear my name before I die,https://www.bbc.co.uk/news/articles/cg3q95ednqwo,2024-04-16 05:30:45,167.0,513
+40030342,AI spam is winning the battle against search engine quality,https://www.theregister.com/2024/04/13/google_ai_spam/,2024-04-14 11:21:39,26.0,514
+40030810,List of failed and overbudget custom software projects,https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects,2024-04-14 13:05:36,3.0,515
+40034662,Ask HN: Does it still matter to be in the Bay Area?,item?id=40034662,2024-04-14 21:29:54,68.0,516
+40041288,Yagi–Uda Antenna,https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna,2024-04-15 14:48:31,8.0,517
+40041143,"To make sure grandmas like his don't get conned, he scams the scammers",https://www.npr.org/2024/04/15/1243189142/scam-baiter-kitboga,2024-04-15 14:38:31,39.0,518
+40033687,"WD Ultrastar Transporter: Briefcase with 368TB of NVMe SSD, 128GB RAM, 1300W PSU",https://www.tomshardware.com/desktops/servers/this-briefcase-lets-you-walk-around-with-368tb-of-nvme-ssds,2024-04-14 19:29:55,47.0,519
+40032090,Top Europe court chides Switzerland in landmark climate ruling,https://phys.org/news/2024-04-europe-court-chides-switzerland-landmark.html,2024-04-14 16:04:09,28.0,520
+40052532,Creating sexually explicit deepfake images to be made offence in UK,https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk,2024-04-16 14:37:39,58.0,521
+40035108,China Already Makes as Many Batteries as the Entire World Wants,https://www.bloomberg.com/news/newsletters/2024-04-12/china-already-makes-as-many-batteries-as-the-entire-world-wants,2024-04-14 22:36:23,7.0,522
+40031594,Sleeping more flushes junk out of the brain,https://arstechnica.com/science/2024/04/sleeping-more-flushes-junk-out-of-the-brain/,2024-04-14 15:02:50,37.0,523
+40050686,Verified pro-Nazi X accounts flourish under Elon Musk,https://www.nbcnews.com/tech/social-media/x-twitter-elon-musk-nazi-extremist-white-nationalist-accounts-rcna145020,2024-04-16 11:23:27,14.0,524
+40032832,Gordon Ramsay's £13M pub taken over by squatters,https://www.thesun.co.uk/tvandshowbiz/27291267/gordon-ramsa-london-pub-squatters-york-albany/,2024-04-14 17:42:30,33.0,525
+40033310,Google Cloud Next 2024: Everything announced so far,https://techcrunch.com/2024/04/10/google-cloud-next-2024-everything-you-need-to-know/,2024-04-14 18:42:33,13.0,526
+40036940,DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About,https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/,2024-04-15 03:56:51,57.0,527
+40043845,50% discount on OpenAI pricing if you submit a batch and give them up to 24h,https://twitter.com/simonw/status/1779932174592167965,2024-04-15 18:12:09,92.0,528
+40034736,Astonishing array of wildlife discovered in Cambodia mangroves,https://www.theguardian.com/environment/2024/apr/14/cambodia-mangroves-wildlife-diversity,2024-04-14 21:41:50,5.0,529
+40033354,Fastest way to get IPv4 address from string (2015),https://stackoverflow.com/questions/31679341/fastest-way-to-get-ipv4-address-from-string,2024-04-14 18:47:29,25.0,530
+40053389,Half of Ireland's young people have low level of mental wellbeing,https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html,2024-04-16 15:36:10,34.0,531
+40031718,CISA opens its malware analysis and threat hunting tool for public use,https://www.csoonline.com/article/2089512/cisa-opens-its-malware-analysis-and-threat-hunting-tool-for-public-use.html,2024-04-14 15:17:29,8.0,532
+40038372,"RFC: Banning ""AI""-backed (LLM/GPT/whatever) contributions to Gentoo",https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html,2024-04-15 09:30:25,164.0,533
+40030901,Wikipedia Abuse Filter,https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500,2024-04-14 13:26:54,26.0,534
+40030994,"From boom to burst, the AI bubble is only heading in one direction",https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction,2024-04-14 13:45:15,4.0,535
+40053248,Vaccine strategy that is effective against any strain of a virus in mice,https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains,2024-04-16 15:27:01,60.0,536
+40044457,Elon Musk plans to charge new X users to enable posting,https://techcrunch.com/2024/04/15/elon-musk-plans-to-charge-new-x-users-to-enable-posting/,2024-04-15 19:05:12,9.0,537
+40032363,Interview with Senior JavaScript Developer 2024 [video],https://www.youtube.com/watch?v=aWfYxg-Ypm4,2024-04-14 16:38:58,133.0,538
+40046150,Edward Snowden Is Among Those Sounding the Alarm over Spying Expansion,https://www.commondreams.org/news/spying-expansion-trump,2024-04-15 21:57:14,24.0,539
+40033636,Sucker Games,https://toluakinola.substack.com/p/sucker-games,2024-04-14 19:23:17,4.0,540
+40031367,Fedora 41 will unify bin and sbin,https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin,2024-04-14 14:35:40,78.0,541
+40043448,Geoffrey Hinton: AI models have intuition and spot analogies unseen by humans,https://twitter.com/tsarnick/status/1778524418593218837,2024-04-15 17:38:18,32.0,542
+40040919,Ionos prices go up after Broadcom acquires VMware,https://twitter.com/BigBalli/status/1779878305812152367,2024-04-15 14:24:44,11.0,543
+40031753,The Home-Solar Boom Gets a 'Gut Punch',https://www.wsj.com/business/energy-oil/the-home-solar-boom-gets-a-gut-punch-2d6a2947,2024-04-14 15:21:44,6.0,544
+40031195,LLMs Are This Close to Destroying the Internet,https://boehs.org/node/llms-destroying-internet,2024-04-14 14:15:15,77.0,545
+40038549,Tesla to lay off more than 10% of its staff,https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/,2024-04-15 10:06:33,245.0,546
+40031263,Homicides are plummeting in American cities,https://www.wsj.com/us-news/murder-rates-down-new-york-san-francisco-philadelphia-508b6855,2024-04-14 14:24:02,47.0,547
+40030853,Many FBI agents are struggling to make ends meet. Housing costs are to blame,https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs,2024-04-14 13:14:19,58.0,548
+40063766,Boston Dynamics retires its legendary humanoid robot,https://spectrum.ieee.org/boston-dynamics-atlas-retires,2024-04-17 12:35:51,82.0,549
+40052329,YouTube cracking down even harder to punish user for skipping ads,https://9to5google.com/2024/04/15/youtube-app-block-ads/,2024-04-16 14:24:28,43.0,550
+40052809,Show HN: CloudCruise (YC W24) – Graph-Based Workflow Builder for Web Agents,https://cloudcruise.com/,2024-04-16 14:57:50,18.0,551
+40047071,Why so many of us were wrong about missile defense,https://www.noahpinion.blog/p/why-so-many-of-us-were-wrong-about,2024-04-16 00:14:34,64.0,552
+40051633,Justice Department to File Antitrust Suit Against Live Nation,https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268,2024-04-16 13:31:51,163.0,553
+40062263,Ask HN: What software sparks joy when using?,item?id=40062263,2024-04-17 09:26:47,34.0,554
+40031058,"Broadcom has willingly dug its VMware hole, says cloud CEO [video]",https://www.theregister.com/2024/04/08/broadcom_vmware_civo/,2024-04-14 13:55:34,28.0,555
+40040959,20 years ago Gmail revolutionized email. It's time for a new revolution,https://tuta.com/blog/gmail-20-years-old,2024-04-15 14:27:06,34.0,556
+40030881,Taking CO2 out of the air would be an expensive way to fight climate change,https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report,2024-04-14 13:22:26,42.0,557
+40039154,Why No IPv6?,https://whynoipv6.com/,2024-04-15 11:35:06,65.0,558
+40042321,"Ask HN: Those who have recently undertaken a job hunt, what was your experience?",item?id=40042321,2024-04-15 16:01:07,38.0,559
+40043153,Apple further explains why Game Boy emulator iGBA was removed from app store,https://www.macrumors.com/2024/04/15/apple-further-explains-igba-removal/,2024-04-15 17:12:02,38.0,560
+40039567,Tesla lays off more than 10% of its workforce,https://www.bbc.co.uk/news/technology-68818113,2024-04-15 12:18:33,56.0,561
+40032978,Biden's new student loan forgiveness erase up to $20k in interest for millions,https://www.cnbc.com/2024/04/08/bidens-student-loan-forgiveness-plan-could-erase-up-to-20000-in-interest.html,2024-04-14 18:01:05,20.0,562
+40061373,Show HN: Privacy Manifest CLI tool for iOS apps,https://github.com/stelabouras/privacy-manifest,2024-04-17 07:00:32,12.0,563
+40059022,"Site claims to have harvested 4B+ Discord chats, all yours for a price",https://www.theregister.com/2024/04/16/discord_network_sale/,2024-04-17 00:21:32,55.0,564
